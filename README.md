@@ -16,5 +16,5 @@ def isHappy(n):
     n = a
   return n == 1
 '''
-  - This function determines whether the input number n is a "happy number" by continuously calculating the sum of the squares of its digits until it either equals 1 or falls into a repetitive cycle.
+- This function determines whether the input number n is a "happy number" by continuously calculating the sum of the squares of its digits until it either equals 1 or falls into a repetitive cycle.
 ---
