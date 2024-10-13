@@ -2,7 +2,6 @@
 ---
 
 ## Week 4 Assignment
----
 - [Link of repository](https://github.com/swoo7246/SWE_2021_41_2024_2_week_4)
 
 ### MY_CODE
