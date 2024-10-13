@@ -21,19 +21,19 @@ def isHappy(n):
 ## Week 5 Assignment
 > docker exec <container_name> cat /etc/os-release
 > - This prints the operating system information by reading /etc/os-release file.
-> - C:\Users\swoo7\docker_practice>docker exec ossp-container cat /etc/os-release
-PRETTY_NAME="Ubuntu 24.04.1 LTS"
-NAME="Ubuntu"
-VERSION_ID="24.04"
-VERSION="24.04.1 LTS (Noble Numbat)"
-VERSION_CODENAME=noble
-ID=ubuntu
-ID_LIKE=debian
-HOME_URL="https://www.ubuntu.com/"
-SUPPORT_URL="https://help.ubuntu.com/"
-BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
-PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
-UBUNTU_CODENAME=noble
+> - C:\Users\swoo7\docker_practice>docker exec ossp-container cat /etc/os-release\
+PRETTY_NAME="Ubuntu 24.04.1 LTS"\
+NAME="Ubuntu"\
+VERSION_ID="24.04"\
+VERSION="24.04.1 LTS (Noble Numbat)"\
+VERSION_CODENAME=noble\
+ID=ubuntu\
+ID_LIKE=debian\
+HOME_URL="https://www.ubuntu.com/"\
+SUPPORT_URL="https://help.ubuntu.com/"\
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"\
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"\
+UBUNTU_CODENAME=noble\
 LOGO=ubuntu-logo
 
 > docker exec <container_name> git --version
