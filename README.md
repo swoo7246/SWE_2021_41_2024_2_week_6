@@ -18,3 +18,6 @@ def isHappy(n):
 ```
 - This function determines whether the input number n is a "happy number" by continuously calculating the sum of the squares of its digits until it either equals 1 or falls into a repetitive cycle.
 ---
+## Week 5 Assignment
+> docker exec <container_name> git --version
+>> - This checks the version of Git.
