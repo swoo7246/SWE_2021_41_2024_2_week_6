@@ -29,10 +29,10 @@ VERSION="24.04.1 LTS (Noble Numbat)"\
 VERSION_CODENAME=noble\
 ID=ubuntu\
 ID_LIKE=debian\
-HOME_URL="https://www.ubuntu.com/"\
-SUPPORT_URL="https://help.ubuntu.com/"\
-BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"\
-PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"\
+HOME_URL="https://www.ubuntu.com/" \
+SUPPORT_URL="https://help.ubuntu.com/" \
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/" \
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy" \
 UBUNTU_CODENAME=noble\
 LOGO=ubuntu-logo
 
